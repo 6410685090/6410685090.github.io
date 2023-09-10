@@ -1,6 +1,6 @@
 # Introduce Myself
 
-![](pic/Mypic.jpg)
+<img src="pic/Mypic.jpg" width="250"/>
 
 Name : Jedtapat Tanthiew
 
