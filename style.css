@@ -1,0 +1,60 @@
+html{
+    background-color: antiquewhite;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+}
+
+.data1{
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 30px;
+}
+
+.data2{
+    font-size: 30px;
+    padding: 12.5px 15px;
+    position: absolute; 
+}
+
+.info{
+    font-size: 30px;
+    padding: 12.5px 15px;
+    text-align: center;
+}
+
+.cont{
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.mypic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 250px;
+    width: 20%;
+}
+
+
+.piciconface{
+    padding: 5px;
+    width: 50px;
+}
+
+.picicon{
+    width: 60px;
+}
+
+.inl{
+    display: inline-block;
+}
+
+
+
